@@ -8,7 +8,7 @@
 
 ## :rocket: Link do Desafio
 
-**Link**: **[link](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs).**
+**Link**: **[link](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native).**
 
 ---
 
